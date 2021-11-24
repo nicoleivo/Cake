@@ -46,3 +46,5 @@ This is the second change
 This is the last modification
 
 This are new changes
+
+And I will make just one new change
