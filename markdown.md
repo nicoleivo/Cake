@@ -45,3 +45,4 @@ This is the second change
 
 This is the last modification
 
+This are new changes
